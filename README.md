@@ -1,7 +1,6 @@
 # Heart-attack-risk-predictor-
 
-
-We will do use various Algorithms to predict the result and see which one suits best and then we will use Auto ML Library EVAL ML to predict the results.
+I've used various Algorithms to predict the result and see which one suits best and then used Auto ML Library EVAL ML to predict the results.
 
 I've done the following in this project:
 -Data Analysis
